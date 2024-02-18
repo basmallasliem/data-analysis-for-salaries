@@ -5,10 +5,10 @@
 
 3. Data Cleaning: Handle missing data by a suitable method.
 
-4. Basic Data Visualization: Create histograms or bar charts to visualize the distribution of salaries, and use pie charts to represent the proportion of employees in different departments.
+4. Basic Data Visualization: Create histograms, and bar charts to visualize the distribution of salaries, and use pie charts to represent the proportion of employees in different departments.
 
-5. Grouped Analysis: Group the data by one or more columns calculate summary statistics for each group, and compare the average salaries across different groups.
+6. Grouped Analysis: Group the data by one, and more columns calculate summary statistics for each group.
 
-6. Simple Correlation Analysis: Identify any correlation between salary and another numerical column, and plot a scatter plot to visualize the relationship.
+7. Simple Correlation Analysis: Identify the correlation between salary and another numerical column, and plot a scatter plot to visualize the relationship.
 
-7. Summary of Insights: Write a brief report summarizing the findings and insights from the analyses.
+8. Summary of Insights: Write a brief report summarizing the findings and insights from the analyses.
