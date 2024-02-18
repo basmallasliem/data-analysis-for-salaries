@@ -3,11 +3,11 @@
 
 2. Descriptive Statistics: Calculate basic statistics mean, median, mode, minimum, and maximum salary, determine the range of salaries, and find the standard deviation.
 
-3. Data Cleaning: Handle missing data by suitable method with explain why you use it.
+3. Data Cleaning: Handle missing data by a suitable method.
 
 4. Basic Data Visualization: Create histograms or bar charts to visualize the distribution of salaries, and use pie charts to represent the proportion of employees in different departments.
 
-5. Grouped Analysis: Group the data by one or more columns and calculate summary statistics for each group, and compare the average salaries across different groups.
+5. Grouped Analysis: Group the data by one or more columns calculate summary statistics for each group, and compare the average salaries across different groups.
 
 6. Simple Correlation Analysis: Identify any correlation between salary and another numerical column, and plot a scatter plot to visualize the relationship.
 
